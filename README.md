@@ -10,6 +10,8 @@ Once you've collected, you'll need to do the 27 chess puzzles. Another [vid from
 ## Submitting Boards and Frequency Codes
 After you've solved the 27 chess puzzles, the area that held the "take" action will spwawn a water fountain that you can interact with.  If you interact with that, it will give you a mini cutscene with a board state.  Take a screen capture of this!  You'll also see a buff on the lower left that reads "signal frequency xZZZZ" where ZZZZ is a number.
 
+Most of the frquencies have been submitted so far.  The critical ones we're looking for are at https://magictwin.net/MagictwinsWorld/view/Externall/Destiny/ChessGame?ShowOnlyMissing=1&ShowOnlyValidated=0
+
 Steps to upload
 1. Upload your screenshot to [imgur.com](https://imgur.com/).  Helps if you update the description to the frequency code
 2. Go to https://tjl.co/queens-gambit-arg/ and fill in the form.  Make sure you include a link to your screenshot from imgur
