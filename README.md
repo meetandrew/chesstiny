@@ -1,4 +1,4 @@
-# chestiny
+# chesstiny intro
 
 So you want to contribute to the Chess ARG? Here's how to get started.
 
